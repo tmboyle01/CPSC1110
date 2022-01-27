@@ -1,2 +1,2 @@
-# CPSC_1011
-Projects from my CPSC_1011 class using C programing
+# CPSC_1110
+CPSC 1110 / Intor to programing in C / Clemson University / Fall 2021
